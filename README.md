@@ -1,4 +1,4 @@
-# Cognizant Digital Nurture 4.0 / Deep Skilling Program
+# Cognizant Digital Nurture 5.0 / Deep Skilling Program
 
 ### Hands-on Solutions & Practice Repository
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-This repository contains my solutions, hands-on exercises, notes, and project implementations completed as part of the **Cognizant Digital Nurture 4.0 Deep Skilling Program**.
+This repository contains my solutions, hands-on exercises, notes, and project implementations completed as part of the **Cognizant Digital Nurture 5.0 Deep Skilling Program**.
 
 The repository is organized week-wise and includes mandatory as well as additional hands-on exercises covering Java, SQL, .NET, ASP.NET Core, Microservices, Angular, and related technologies.
 
